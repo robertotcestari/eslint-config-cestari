@@ -1,1 +1,5 @@
-# eslint-config-cestari
+# Eslint e Prettier Config!
+
+## Instalação
+
+-
