@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cestari",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "## Instalação",
   "main": "index.js",
   "scripts": {
