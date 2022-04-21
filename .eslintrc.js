@@ -12,6 +12,7 @@ module.exports = {
     "react/jsx-key": 1,
     "react-hooks/rules-of-hooks": 2,
     "react/prefer-stateless-function": 0,
+    "react/prop-types": 0,
     "react/jsx-filename-extension": [
       1,
       {
