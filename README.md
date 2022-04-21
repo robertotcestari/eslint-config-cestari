@@ -25,3 +25,10 @@ npx install-peerdeps --dev eslint-config-cestari
   "singleQuote": true
 }
 ```
+
+## Configurações
+
+- Estende as configs do Airbnb
+- Estende as configs do react-hooks/recommended
+- Desabilita regras que podem conflitar com prettier (usa prettier como formatador)
+- Coloquei algumas regras do meu gosto (para ver quais, dá uma espiada no `.eslintrc.js`).
