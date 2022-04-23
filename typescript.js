@@ -10,8 +10,8 @@ module.exports = {
   plugins: ['@typescript-eslint'],
 
   rules: {
-    // '@typescript-eslint/no-explicit-any': 'off',
-    // 'no-redeclare': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
+    'no-redeclare': 'off', // serve para function overloading no TS uso aqui: https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/docs/rules/no-redeclare.md
     '@typescript-eslint/no-redeclare': [
       'warn',
       {
