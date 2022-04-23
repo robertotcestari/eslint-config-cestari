@@ -18,6 +18,7 @@ module.exports = {
     'no-underscore-dangle': 0,
     'react/no-array-index-key': 1,
     'react/forbid-prop-types': 0,
+    'no-unused-vars': [1, { ignoreRestSiblings: true }],
     radix: 0,
     'react/jsx-filename-extension': [
       1,
