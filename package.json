@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cestari",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "## Instalação",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/robertotcestari/eslint-config-cestari#readme",
   "peerDependencies": {
-    "eslint": "^8.13.0",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.13.0",
     "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
