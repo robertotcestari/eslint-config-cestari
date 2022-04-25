@@ -26,5 +26,12 @@ module.exports = {
         extensions: ['.js', '.jsx', '.ts', '.tsx', '.mdx'],
       },
     ],
+    // aqui permite o for..in
+    'no-restricted-syntax': [
+      2,
+      'ForInStatement',
+      'LabeledStatement',
+      'WithStatement',
+    ],
   },
 };
