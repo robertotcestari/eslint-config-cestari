@@ -1,9 +1,10 @@
 module.exports = {
   extends: [
+    "plugin:import/typescript",
     'plugin:@typescript-eslint/recommended',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'airbnb-typescript',
     './.eslintrc.js',
+    'airbnb-typescript',
   ],
 
   parser: '@typescript-eslint/parser',
