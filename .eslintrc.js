@@ -6,6 +6,7 @@ module.exports = {
     es6: true,
   },
   rules: {
+    "no-await-in-loop": 0,
     'no-console': 0,
     'react/react-in-jsx-scope': 0,
     'jsx-a11y/accessible-emoji': 0,
