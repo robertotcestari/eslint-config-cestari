@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cestari",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "Roberto Cestari",
   "main": "index.js",
   "scripts": {
