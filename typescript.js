@@ -17,6 +17,7 @@ module.exports = {
     'no-redeclare': 'off', // serve para function overloading no TS uso aqui: https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/docs/rules/no-redeclare.md
     '@typescript-eslint/no-redeclare': [1, { ignoreDeclarationMerge: true }],
     '@typescript-eslint/no-floating-promises': 'off',
+    '@typescript-eslint/no-use-before-define': 'off',
   },
   parserOptions: {
     project: './tsconfig.json',
